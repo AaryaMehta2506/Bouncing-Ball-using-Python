@@ -16,3 +16,9 @@ Installation: Clone or download the repository to your local machine.
 Run the Program: Execute the Python script (bouncing_ball.py) using your preferred Python interpreter.
 
 Explore the Simulation: Observe the behavior of the bouncing ball as it interacts with the boundaries of the screen.
+
+Contributing
+If you'd like to contribute to this project, feel free to fork the repository, make changes, and create a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
